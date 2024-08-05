@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on **Applications with Flutter**
+- 🔭 I’m currently working on **Applications with Flutter and kotlin**
 
-- 🌱 I’m currently learning **Mobile Development With Flutter and Web Development**
+- 🌱 I’m currently learning **Mobile Development With Flutter, kotlin and Web Development**
 
 - 💬 Ask me about **C++, Dart, Flutter, Html, CSS, JS, Sql**
 
